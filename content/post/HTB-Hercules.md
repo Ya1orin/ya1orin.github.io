@@ -12,7 +12,6 @@ categories:
   - HackTheBox
 tags:
   - Windows
-  - ADCS
   - RID Cycling
   - Shadow Credentials
   - ADCS-ESC3

@@ -635,7 +635,7 @@ d-----         4/8/2023   2:08 AM                winrm_svc
 
 点击`First Degree Object Control`
 
-![image-20250327171237614](https://cdn.jsdelivr.net/gh/Ya1orin/Blog-images/uploads/3051266-20250327171250329-1291488053.png)
+![img](https://cdn.jsdelivr.net/gh/Ya1orin/Blog-images/uploads/3051266-20250327171250329-1291488053.png)
 
 发现当前用户可以读取`DELEGATOR$`机器账户的`gMSA`密码，	但还是不能拿到`tbrady`用户的凭据
 
